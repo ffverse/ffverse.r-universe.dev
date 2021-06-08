@@ -1,0 +1,15 @@
+[
+    {
+        "package": "ffscrapr",
+        "url": "https://github.com/dynastyprocess/ffscrapr",
+        "branch":"dev"
+    },
+    {
+        "package": "fpscrapr",
+        "url": "https://github.com/dynastyprocess/fpscrapr"
+    },
+    {
+        "package": "ffsimulator",
+        "url": "https://github.com/dynastyprocess/ffsimulator"
+    }
+]
