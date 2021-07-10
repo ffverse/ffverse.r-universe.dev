@@ -6,11 +6,12 @@
     },
     {
         "package": "ffpros",
-        "url": "https://github.com/dynastyprocess/ffpros",
+        "url": "https://github.com/ffverse/ffpros",
         "branch":"main"
     },
     {
         "package": "ffsimulator",
-        "url": "https://github.com/dynastyprocess/ffsimulator"
+        "url": "https://github.com/ffverse/ffsimulator",
+        "branch":"main"
     }
 ]
