@@ -13,5 +13,10 @@
         "package": "ffsimulator",
         "url": "https://github.com/ffverse/ffsimulator",
         "branch":"main"
+    },
+    {
+        "package": "ffexpectedpoints",
+        "url": "https://github.com/ffverse/ffexpectedpoints",
+        "branch":"main"
     }
 ]
