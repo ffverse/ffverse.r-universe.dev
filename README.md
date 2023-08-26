@@ -7,7 +7,7 @@ The [ffverse r-universe page](https://ffverse.r-universe.dev) hosts **`developme
 Install specifically from this package repository with:
 
 ```r
-install.packages('ffscrapr', repo = 'https://ffverse.r-universe.dev')
+install.packages('ffscrapr', repo = c('https://ffverse.r-universe.dev', getOption('repos')))
 ```
 
 You can also default-enable this repository by adding the following option to [your R profile](https://usethis.r-lib.org/reference/edit.html) before installing any ffverse package: 
